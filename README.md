@@ -15,19 +15,3 @@ Install [Jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html)
 ##Usage
 
 Run `jupyter notebook` in terminal when you are in the main directory, then a browser window will pop up. You can run the code in the browser easily.
-
-# Coding Challenge - Due Date: Thursday, February 23rd 2017 at 12 PM PST
-
-The challenge for this video is to build an image classifer for 2 different animals. They can be any 2 animals. You can use Keras & Tensorflow. The demo notebook attached will act as a good guide, as well as the links i've provided in the video description.
-
-Bonus points if you do one or both of the following.
-
-1. Use only Tensorflow
-
-2. You use transfer learning to improve your model. 
-
-Good luck!
-
-##Credits
-
-Credits go to a Wizard named [Rajiv Shah](https://github.com/rajshah4/image_keras)! I've merely created a wrapper to get people started.
